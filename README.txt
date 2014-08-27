@@ -5,6 +5,7 @@ Created by: Toasty (http://steamcommunity.com/id/sir_narwhal500)
 
 Website: Maybe one day
 Steam Group: Maybe one day
+Screenshots: Coming soon
 
 --------------------------------
 How to install
