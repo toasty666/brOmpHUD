@@ -30,7 +30,7 @@ CREDIT:
 Parts of this HUD have been taken and modified or inspired from other HUDs
 These other HUDS include:
 -e.v.e HUD (main menu)
--notoHUD (Don't remember...)
+-notoHUD (3D Model placement)
 -OmpHUD (colour definitions, chat, general positioning)
 -rayshud (Timers)
 -broeselhud (General positioning)
