@@ -1,7 +1,7 @@
 --------------------------------
 roastyHUD v2 (29.08.2014)
 --------------------------------
-Created by: Toasty (http://steamcommunity.com/id/sir_narwhal500)
+Created by: Toasty (http://steamcommunity.com/id/toasty666)
 
 Website: Maybe one day
 Steam Group: Maybe one day
@@ -10,7 +10,7 @@ Screenshots: Coming soon
 --------------------------------
 How to install
 --------------------------------
-Inside the archive you'll find a folder called "roastyHUD". Move it to the following location:
+Inside the archive you'll find a folder called "roastyHUD-master". Move it to the following location:
 
 - Windows:
 ~\Steam\steamapps\common\Team Fortress 2\tf\custom
