@@ -1,7 +1,7 @@
 --------------------------------
 roastyHUD v2 (29.08.2014)
 --------------------------------
-Created by: Toasty (http://steamcommunity.com/id/sir_narwhal500)
+Created by: Toasty (http://steamcommunity.com/id/toasty666)
 
 Website: Maybe one day
 Steam Group: Maybe one day
