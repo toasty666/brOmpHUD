@@ -1,11 +1,11 @@
 --------------------------------
 roastyHUD v3 (31.08.2014)
 --------------------------------
-Created by: Toasty (steamcommunity.com/id/toasty666)
+Created by: Toasty (http://steamcommunity.com/id/toasty666)
 
 Website: Maybe one day
-Steam Group: steamcommunity.com/groups/roastyhud
-Screenshots: imgur.com/a/BiQjO
+Steam Group: http://steamcommunity.com/groups/roastyhud
+Screenshots: http://imgur.com/a/BiQjO
 
 --------------------------------
 How to install
