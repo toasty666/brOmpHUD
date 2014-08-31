@@ -1,5 +1,5 @@
 --------------------------------
-roastyHUD v2 (29.08.2014)
+roastyHUD v3 (31.08.2014)
 --------------------------------
 Created by: Toasty (http://steamcommunity.com/id/toasty666)
 

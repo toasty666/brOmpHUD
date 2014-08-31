@@ -3399,6 +3399,36 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		"RalewayBold20"
+		{
+			"1"
+			{
+				"name"		"Raleway-Bold"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		"RalewayBoldOutline20"
+		{
+			"1"
+			{
+				"name"		"Raleway-Bold"
+				"tall"		"20"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"RalewayRegular24"
+		{
+			"1"
+			{
+				"name"		"Raleway-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
 	}
 
 	//
@@ -5309,33 +5339,38 @@ Scheme
 		// omp fonts
 		"7"
 		{
-			"font" "resource/FuturaStd-Medium.otf"
+			"font" "resource/fonts/FuturaStd-Medium.otf"
 			"name" "FuturaStd-Medium"
 		}
 		"8"
 		{
-			"font" "resource/FuturaStd-Heavy.otf"
+			"font" "resource/fonts/FuturaStd-Heavy.otf"
 			"name" "FuturaStd-Heavy"
 		}
 		"9"
 		{
-			"font" "resource/Crosshairs.otf"
+			"font" "resource/fonts/Crosshairs.otf"
 			"name" "Crosshairs Regular"
 		}
 		"10"
 		{
-			"font" "resource/Symbol.ttf"
+			"font" "resource/fonts/Symbol.ttf"
 			"name" "Symbol"
 		}
 		"11"
 		{
-			"font" "resource/Blocks.ttf"
+			"font" "resource/fonts/Blocks.ttf"
 			"name" "Blocks"
 		}
 		"12"
 		{
-			"font" "resource/Raleway-Bold.otf"
+			"font" "resource/fonts/Raleway-Bold.otf"
 			"name" "Raleway-Bold"
+		}
+		"13"
+		{
+			"font" "resource/fonts/Raleway-Regular.otf"
+			"name" "Raleway-Regular"
 		}
 	}
 }
