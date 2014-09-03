@@ -1,16 +1,15 @@
 --------------------------------
-roastyHUD v3 (31.08.2014)
+brOmpHUD (31.08.2014)
 --------------------------------
 Created by: Toasty (http://steamcommunity.com/id/toasty666)
 
-Website: Maybe one day
-Steam Group: http://steamcommunity.com/groups/roastyhud
+Steam Group: http://steamcommunity.com/groups/bromphud
 Screenshots: http://imgur.com/a/BiQjO
 
 --------------------------------
 How to install
 --------------------------------
-Inside the archive you'll find a folder called "roastyHUD-master". Move it to the following location:
+Inside the archive you'll find a folder called "bromphud". Move it to the following location:
 
 - Windows:
 ~\Steam\steamapps\common\Team Fortress 2\tf\custom
