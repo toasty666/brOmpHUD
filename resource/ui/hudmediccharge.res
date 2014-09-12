@@ -38,11 +38,6 @@
 		"font"			"Futura20"
 		"fgcolor"		"OmpText"
 		
-		"font_minmode"	"FuturaHeavy36"
-		"xpos_minmode"	"150"
-		"ypos_minmode"	"28" // omp -- -6 Mac fix.
-		"wide_minmode"	"91"
-		"tall_minmode"	"37" // omp -- +12 Mac fix.
 	}
 	"ChargeLabelShadow"
 	{
@@ -67,11 +62,6 @@
 		"font"			"Futura20"
 		"fgcolor"		"0 0 0 255"
 		
-		"font_minmode"	"FuturaHeavy36"
-		"xpos_minmode"	"151"
-		"ypos_minmode"	"29"
-		"wide_minmode"	"91"
-		"tall_minmode"	"37"
 	}
 
 	"IndividualChargesLabel"
@@ -95,11 +85,6 @@
 		"font"			"FuturaHeavy56"
 		"fgcolor"		"OmpAmmoClip"
 		
-		"font_minmode"	"FuturaHeavy36"
-		"xpos_minmode"	"150"
-		"ypos_minmode"	"28" // omp -- -6 Mac fix.
-		"wide_minmode"	"91"
-		"tall_minmode"	"37" // omp -- +12 Mac fix.
 	}
 	
 	"ChargeMeterLabel"
@@ -122,10 +107,7 @@
 		"brighttext"			"0"
 		"font"					"Futura7"
 		"fgcolor_override"		"OmpMeterLabel"
-		
-		"xpos_minmode"			"50"
-		"ypos_minmode"			"52"
-		"wide_minmode"			"100"
+
 	}
 	
 	"ChargeMeter"
@@ -148,9 +130,6 @@
 		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
 		
-		"xpos_minmode"			"50"
-		"ypos_minmode"			"52"
-		"wide_minmode"			"100"
 	}		
 
 	"ChargeMeterBG"
@@ -168,9 +147,6 @@
 		"enabled"		"1"
 		"fillcolor"		"OmpDarkBG"
 		
-		"xpos_minmode"			"50"
-		"ypos_minmode"			"52"
-		"wide_minmode"			"100"
 	}
 
 	"ChargeMeter1"
@@ -193,9 +169,6 @@
 		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
 		
-		"xpos_minmode"			"50"
-		"ypos_minmode"			"52"
-		"wide_minmode"			"24"
 	}
 
 	"ChargeMeter2"
@@ -217,10 +190,7 @@
 		"brighttext"	"0"
 		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
-		
-		"xpos_minmode"			"76"
-		"ypos_minmode"			"52"
-		"wide_minmode"			"23"
+
 	}
 
 	"ChargeMeter3"
@@ -243,9 +213,7 @@
 		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
 		
-		"xpos_minmode"			"101"
-		"ypos_minmode"			"52"
-		"wide_minmode"			"23"
+
 	}
 
 	"ChargeMeter4"
@@ -268,9 +236,7 @@
 		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
 		
-		"xpos_minmode"			"126"
-		"ypos_minmode"			"52"
-		"wide_minmode"			"24"
+
 	}
 	
 	"HealthClusterIcon"
@@ -282,7 +248,6 @@
 		"wide"			"36"
 		"tall"			"36"
 		"visible"		"1"
-		"visible_minmode"		"0"
 		"enabled"		"1"
 		"image"			"../hud/ico_health_cluster"
 		"scaleImage"	"1"	
@@ -297,7 +262,6 @@
 		"wide"			"24"
 		"tall"			"24"
 		"visible"		"0"
-		"visible_minmode"		"0"
 		"enabled"		"1"
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"scaleImage"	"1"	

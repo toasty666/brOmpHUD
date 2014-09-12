@@ -8,10 +8,8 @@
 		"ypos"			"9999"
 		"zpos"			"0"
 		"wide"			"76"
-		"wide_minmode"	"56"
 		"tall"			"38"
 		"visible"		"1"
-		"visible_minmode"	"0"
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
@@ -33,7 +31,6 @@
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
-		"visible_minmode"		"0"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_Charge"
@@ -42,9 +39,6 @@
 		"brighttext"			"0"
 		"font"					"Futura7"
 		"fgcolor_override"		"OmpMeterLabel"
-		
-		"xpos_minmode"			"50"
-		"wide_minmode"			"100"
 	}
 
 	"ChargeMeter"
@@ -66,9 +60,6 @@
 		"brighttext"			"0"
 		"bgcolor_override"		"OmpDarkBG"
 		"fgcolor_override"		"255 255 255 255"
-		
-		"xpos_minmode"			"50"
-		"wide_minmode"			"100"
 	}				
 		
 	"PipesPresentPanel"
@@ -82,9 +73,6 @@
 		"tall"			"26" // omp -- +8 Mac fix.
 		"visible"		"1"
 		
-		"xpos_minmode"			"50"
-		"wide_minmode"			"100"
-		
 		"PipeIcon"
 		{
 			"ControlName"	"CTFImagePanel"
@@ -92,9 +80,7 @@
 			"xpos"			"9999"
 			"ypos"			"9999"
 			"wide"			"20"
-			"wide_minmode"	"14"
 			"tall"			"20"
-			"tall_minmode"	"14"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/ico_stickybomb_red"
@@ -124,7 +110,6 @@
 			"font"			"Futura24"
 			"fgcolor"		"OmpDemoPipes"
 			
-			"wide_minmode"			"99"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -147,7 +132,6 @@
 			"font"			"Futura24"
 			"fgcolor"		"OmpShadow"
 			
-			"wide_minmode"			"99"
 		}		
 	}
 	
@@ -168,11 +152,8 @@
 			"fieldName"		"PipeIcon"
 			"xpos"			"26"
 			"ypos"			"16"
-			"ypos_minmode"	"12"
 			"wide"			"20"
-			"wide_minmode"	"14"
 			"tall"			"20"
-			"tall_minmode"	"14"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/ico_stickybomb_red_faded"
@@ -186,9 +167,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
 			"xpos"			"50"
-			"xpos_minmode"	"42"
 			"ypos"			"18"
-			"ypos_minmode"	"12"
 			"zpos"			"2"
 			"wide"			"35"
 			"tall"			"20"
@@ -203,7 +182,6 @@
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
-			"font_minmode"	"HudFontSmall"
 			"font_lodef"	"HudFontMediumBig"
 		}
 		"NumPipesLabelDropshadow"
@@ -211,9 +189,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabelDropshadow"
 			"xpos"			"51"
-			"xpos_minmode"	"43"
 			"ypos"			"19"
-			"ypos_minmode"	"13"
 			"zpos"			"2"
 			"wide"			"35"
 			"tall"			"20"
@@ -228,7 +204,6 @@
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
-			"font_minmode"	"HudFontSmall"
 			"font_lodef"	"HudFontMediumBig"
 			"fgcolor"		"black"
 		}			

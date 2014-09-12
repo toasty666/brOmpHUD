@@ -11,8 +11,6 @@
 		"wide"	 		"205"
 		"tall"	 		"140"
 		"PaintBackgroundType"	"2"
-		
-		"wide_minmode"	"305"
 	}
 
 	ChatInputLine
@@ -26,8 +24,6 @@
 		"wide"	 		"185"
 		"tall"	 		"2"
 		"PaintBackgroundType"	"0"
-		
-		"wide_minmode"	"285"
 	}
 
 	"ChatFiltersButton"
@@ -48,8 +44,6 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"Default"		"0"		
-		
-		"xpos_minmode"	"250"
 	}
 
 	"HudChatHistory"
@@ -69,7 +63,5 @@
 		"textAlignment"		"south-west"
 		"font"			"ChatFont"
 		"maxchars"		"-1"
-		
-		"wide_minmode"	"285"
 	}
 }

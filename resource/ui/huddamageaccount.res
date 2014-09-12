@@ -28,12 +28,6 @@
 		"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"%metal%"
-		
-		"font_minmode"	"Futura24"
-		"xpos_minmode"	"c-142"
-		"ypos_minmode"	"c46"
-		"wide_minmode"	"91"
-		"tall_minmode"	"25"
 	}
 	"CDamageAccountValueShadow"
 	{
@@ -50,11 +44,5 @@
 		"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"%metal%"
-		
-		"font_minmode"	"Futura24"
-		"xpos_minmode"	"c-141"
-		"ypos_minmode"	"c47"
-		"wide_minmode"	"91"
-		"tall_minmode"	"25"
 	}
 }

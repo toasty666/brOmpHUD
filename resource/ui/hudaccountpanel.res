@@ -68,9 +68,6 @@
 		"brighttext"	"0"
 		"font"			"Futura24"
 		"fgcolor"		"OmpAmmoMetal"
-		
-		"xpos_minmode"	"50"
-		"wide_minmode"	"99"
 	}
 	
 	"AccountValueShadow"
@@ -93,8 +90,5 @@
 		"brighttext"	"0"
 		"font"			"Futura24"
 		"fgcolor"		"OmpShadow"
-		
-		"xpos_minmode"	"51"
-		"wide_minmode"	"99"
 	}
 }

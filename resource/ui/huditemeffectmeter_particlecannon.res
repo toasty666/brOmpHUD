@@ -23,7 +23,6 @@
 		"wide"			"100"
 		"tall"			"50"
 		"visible"		"1"
-		"visible_minmode"	"0"
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"	
@@ -54,8 +53,6 @@
 		"font"					"Futura7"
 		"fgcolor_override"		"OmpMeterLabel"
 		
-		"xpos_minmode"			"50"
-		"wide_minmode"			"100"
 	}
 
 	"ItemEffectMeter"
@@ -78,7 +75,5 @@
 		"bgcolor_override"		"OmpDarkBG"
 		"fgcolor_override"		"255 255 255 255"
 		
-		"xpos_minmode"			"50"
-		"wide_minmode"			"100"
 	}					
 }

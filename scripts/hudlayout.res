@@ -59,9 +59,6 @@
 		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
-		
-		"ypos_minmode"	"r50"	
-		"xpos_minmode"	"r52"
 	}
 	
 	HudMedicCharge
@@ -73,11 +70,6 @@
 		"ypos"			"c52" // omp -- 2 before due to low-res grid.
 		"wide"			"332"
 		"tall"			"134"
-		
-		"xpos_minmode"	"c-100"
-		"ypos_minmode"	"c36" // omp -- 1 before due to low-res grid.
-		"wide_minmode"	"242"
-		"tall_minmode"	"93"
 	}
 	
 	HudDemomanCharge
@@ -113,15 +105,10 @@
 		"fieldName"		"HudFlameRocketCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
+		"xpos"			"r80"	[
+		"ypos"			"r21"	
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
-		"wide_minmode"	"50"
 		"tall"			"8"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -196,9 +183,7 @@
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"54"
-		"xpos_minmode"			"48"
 		"ypos"					"r55"
-		"ypos_minmode"			"r80"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"

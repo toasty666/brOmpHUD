@@ -3389,7 +3389,18 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
+		"RalewayBold42"
+		{
+			"1"
+			{
+				"name"		"Raleway-Bold"
+				"tall"		"42"
+				"tall_lodef" "52"
+				"weight" 	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"RalewayBold28"
 		{
 			"1"
