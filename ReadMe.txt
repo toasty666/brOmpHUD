@@ -1,11 +1,15 @@
 --------------------------------
-brOmpHUD (31.08.2014)
+brOmpHUD v1.35 (6.09.2014)
 --------------------------------
 Created by: Toasty (http://steamcommunity.com/id/toasty666)
 
 Steam Group: http://steamcommunity.com/groups/bromphud
 Screenshots: http://imgur.com/a/BiQjO
 
+--------------------------------------------------------------------------------
+MAY NOT SUPPORT MAC and aspect ratios other than 16:9 (testing required)
+DOES NOT SUPPORT LINUX (sorry about that)
+--------------------------------------------------------------------------------
 --------------------------------
 How to install
 --------------------------------
@@ -17,12 +21,6 @@ Inside the archive you'll find a folder called "bromphud". Move it to the follow
 - Mac:
 ~/Library/Application Support/Steam/SteamApps/common/Team Fortress 2/tf/custom
 
-- Linux:
-~/.local/share/Steam/SteamApps/common/Team Fortress 2/tf/custom
-
---------------------------------------------------------------------------------
-MAY NOT SUPPORT MAC/LINUX and aspect ratios other than 16:9 (testing required)
---------------------------------------------------------------------------------
 ------------------------------
 CREDIT:
 ------------------------------
@@ -30,5 +28,5 @@ This HUD is a combination of parts from my personal favourite custom HUDs rolled
 These other HUDS include:
 -e.v.e HUD (Main Menu, taunt menu stylized to fit with OmpHUD)
 -notoHUD (3D Models)
--OmpHUD (Original base of roastyHUD)
+-OmpHUD (Original base of bromphud)
 -broeselhud (Weapon and Ammo based on broesel's)
