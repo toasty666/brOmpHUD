@@ -8,17 +8,21 @@ About
 
 brOmpHUD is a modified HUD created by toasty using OmpHUD + broeselhud. It aims to be as minimalist as unobtrusive as possible. The font improves on broesels and is also colour coded for easier reading during the midst of battle. 
 
- Screenshots
+Steam Group
+--------
+http://steamcommunity.com/groups/bromphud
+
+Screenshots
 --------
 
 * https://imgur.com/a/BiQjO
 
-How to Install
+How to Download
 --------
 
 Click the "ZIP" button with the cloud next to it in order to download the most recent version of my hud! It should be at the top of the page. 
 
-To Install
+How to Install
 --------
 
 Inside the archive you'll find a folder called "bromphud". Move it to the following location:
@@ -33,7 +37,7 @@ Inside the archive you'll find a folder called "bromphud". Move it to the follow
 Help/Support
 --------
 
-Please remember that this hud is not completely finished, and will have some bugs within it. You're free to either open a support ticket here on GitHub, make a new discussion thread on my Steam Group
+Please remember that this hud is not completely finished, and will have some bugs within it. You're free to either open a support ticket here on GitHub, or make a new discussion thread on my Steam Group
 
 Credits
 --------
