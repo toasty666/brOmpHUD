@@ -10,7 +10,7 @@ brOmpHUD is a modified HUD created by toasty using OmpHUD + broeselhud. It aims 
 
 Steam Group
 --------
-http://steamcommunity.com/groups/bromphud
+* http://steamcommunity.com/groups/bromphud
 
 Screenshots
 --------
